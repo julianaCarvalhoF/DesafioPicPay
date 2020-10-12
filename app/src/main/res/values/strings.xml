@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Aula_Layout</string>
+    <string name="register_credit_card">Cadastrar Cartao</string>
+    <string name="credcarnumber">creditNumber</string>
+    <string name="credit_card_cvv">cvv</string>
+    <string name="credit_card_expiration">data de expiração</string>
+    <string name="credit_card_number">numero do cartão</string>
+    <string name="credit_card_name">nome do titular</string>
+    <string name="creditCardSave">Salvar</string>
+</resources>
